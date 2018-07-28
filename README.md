@@ -26,4 +26,4 @@ Updated Elo of teamA after it loses a game where E is old Elo score, k is a set 
 <a href="https://www.codecogs.com/eqnedit.php?latex=E&space;&plus;&space;K*(1-X)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E&space;&plus;&space;K*(1-X)" title="E + K*(1-X)" /></a>
 
 ## How to Create Your Own Site
-Head over to the repositories wiki to find out how to create and maintain your own website.
+Head over to the repositories wiki to find out how to create and maintain your own website like this one.
